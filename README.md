@@ -20,16 +20,22 @@ This project was used for teaching a STEM workshop. The target audience was high
 **Materials**:
 
 - Battery Pack (turns on the ESP32, starting the whole process)
+  - [Buy on Amazon](https://www.amazon.com/dp/B0BMW2985V)
 - ESP32 Dev Board
+  - [Buy on Amazon](https://www.amazon.com/ESP-WROOM-32-Development-Microcontroller-Integrated-Compatible/dp/B08D5ZD528)
 - Servo Motor
-- USBA to USB Micro Cable (programming the ESP32)
+  - [Buy on Amazon](https://www.amazon.com/WWZMDiB-SG90-Control-Servos-Arduino/dp/B0BKPL2Y21)
+- USB to MicroUSB Cable
+  - It must allow you to connect the ESP32 to your computer for flashing the code to the ESP32. Be sure to test ahead of time.
 - Jumper Wires
+  - [Buy on Amazon](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY)
 - Cardboard
-- Tape
+- Tape that sticks well to cardboard
 - String/Ribbon
 - Mentos
 - Diet Coke
-- (Optional) Geyser Tube (We used this one from [Amazon](https://www.amazon.com/Steve-Spangler-Science-Geyser-Experiment/dp/B082MS6V17))
+- (**Optional**) Geyser Tube
+  - [Buy on Amazon](https://www.amazon.com/Steve-Spangler-Science-Geyser-Experiment/dp/B082MS6V17)
 
 **Student Roles** (3 students per group):
 
